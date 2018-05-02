@@ -1,0 +1,12 @@
+SenseMaster公有云API接口 
+? 
+接口功能 视频内容审核 
+接口地址 https://master.sensetime.com/api/v1/video/audit 
+账号信息 API KEY 6ab0306927dc45e8996835e4c88ad1c9 
+API SECRET 6ffe0b02bca94f5baf6f7ad1399e492d 
+并发限制 5 
+吞吐量限制 每小时 10000 次 
+到期日期 2018-05-30 
+? 
+接口说明文档 https://master.sensetime.com/web/demo/#/doc 
+产品主页 https://master.sensetime.com
